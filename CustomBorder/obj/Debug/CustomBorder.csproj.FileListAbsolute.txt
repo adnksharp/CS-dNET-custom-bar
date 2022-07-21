@@ -1,0 +1,11 @@
+D:\source\repos\CustomBorder\CustomBorder\bin\Debug\CustomBorder.exe.config
+D:\source\repos\CustomBorder\CustomBorder\bin\Debug\CustomBorder.exe
+D:\source\repos\CustomBorder\CustomBorder\bin\Debug\CustomBorder.pdb
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.csproj.AssemblyReference.cache
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.Form1.resources
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.Properties.Resources.resources
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.csproj.GenerateResource.cache
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.csproj.CoreCompileInputs.cache
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.exe
+D:\source\repos\CustomBorder\CustomBorder\obj\Debug\CustomBorder.pdb
